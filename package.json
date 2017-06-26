@@ -39,7 +39,7 @@
     "mkdirp": "^0.5.1",
     "mustache": "^2.2.1",
     "node-notifier": "^5.0.1",
-    "npmlog": "^4.0.0",
+    "npmlog": "4.1.0",
     "printf": "^0.2.3",
     "rimraf": "^2.4.4",
     "socket.io": "1.6.0",
